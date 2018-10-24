@@ -1,2 +1,2 @@
-# JDoc
-Some concepts in javascript
+# javascript中的一些概念 / Some concepts in javascript
+
