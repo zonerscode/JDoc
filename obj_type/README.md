@@ -30,7 +30,7 @@
 ```
 /*浏览器(BOM对象)*/
 window
-documents
+document
 location
 history
 navigator
