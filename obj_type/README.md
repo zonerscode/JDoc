@@ -3,23 +3,43 @@
 
 ## 原始类型
 
-### Boolean
-### Null
-### Undefined
-### Number
-### String
-### Symbol (ECMAScript 6 新定义)
+
+```
+ Boolean
+ Null
+ Undefined
+ Number
+ String
+ Symbol (ECMAScript 6 新定义)
+```
 
 ## Object
 
-### Math
-### Date
+
+```
+ Math
+ Date
+```
 
 ## 环境对象
 
-###  window、documents、
+
+```
+window
+documents
+location
+```
 
 
 ## Other
 
-###  arguments、call、apply、define、require、export
+
+```
+arguments、
+call、apply、
+define、
+require、
+export
+```
+
+
