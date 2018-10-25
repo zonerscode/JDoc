@@ -52,5 +52,5 @@
     Object.__proto__===Function.prototype //Object 的构造者是 Function
 
 
-  [1]: https://segmentfault.com/a/1190000011235133
+  [1]: https://github.com/zonerscode/JDoc/blob/master/basic/obj_inherit.md
 
