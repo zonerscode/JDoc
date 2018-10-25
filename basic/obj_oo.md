@@ -138,7 +138,7 @@ javascript中的面向对象是一个老生常谈的问题，可能有人问你�
     picker.prototype.stopCallBack=function(){}
     //..........
 
-完整代码() :
+完整代码:
 [Github](https://github.com/OoSpace/JDoc/blob/master/src/picker.html)
 
 **4，总结：**
