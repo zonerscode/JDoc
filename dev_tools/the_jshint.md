@@ -2,7 +2,7 @@
 
 
 ```
-JSHint默认使用用户home目录下的.jshintrc文件（json格式）作为配置文件
+JSHint默认使用用户当前目录下的.jshintrc文件（json格式）作为配置文件
 ```
 [英文文档](https://jshint.com/docs/options/)
 
