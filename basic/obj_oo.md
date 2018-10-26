@@ -47,6 +47,15 @@ javascript中的面向对象是一个老生常谈的问题，可能有人问你�
     //item = a || b || c || d ...
     let result = obj[item]();
 
+    //错误的写法
+    function(a,b,c,d,e){}
+
+    //正确的示范
+    let param = {a:"a",b:"b",c:"c"...}
+    function(param){}
+
+    ...
+
 
 其实以上都不是我要说的，这里我更偏向于把对象看作一件现实当中的“事物”，即物理上存在的东西，然后把它抽象出来，就是我们需要的东西
 
@@ -138,7 +147,7 @@ javascript中的面向对象是一个老生常谈的问题，可能有人问你�
     picker.prototype.stopCallBack=function(){}
     //..........
 
-完整代码:
+完整代码 :
 [Github](https://github.com/OoSpace/JDoc/blob/master/src/picker.html)
 
 **4，总结：**
